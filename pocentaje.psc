@@ -1,8 +1,6 @@
 Algoritmo Primero
-	Definir AlumnosH, AlumnosM Como Entero
-	Escribir  "Ingrese la cantidad de alumnos"
-	Leer AlumnosH
-	Escribir "Ingrese la cantalidad de alumnas"
-	Leer AlumnosM
+	Definir Alumnos Como Entero
+	Escribir  "Ingrese cantidad de alumnos"
+	Leer Alumnos
 FinAlgoritmo
 	
