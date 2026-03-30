@@ -1,4 +1,4 @@
-Algoritmo Primero
+saltado el conflictoAlgoritmo Primero
 	Definir Alumnos Como Entero
 	Escribir  "Ingrese cantidad de alumnos registrados:" , Sin Saltar; Leer Alumnos
 	
